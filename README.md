@@ -1,8 +1,9 @@
 # Frontend
 Technologies used:
--React JS
+- React JS
 
 ``` npm install ```
+
 ``` npm run dev ```
 
 # Backend
@@ -17,10 +18,13 @@ Technologies used:
 ** Make sure you efcore update.
 
 ```dotnet ef database update --project Application02.Infrastructure --startup-project Application02.Api```
+
 ```dotnet run watch --project Application02.Api```
 
 ## Endpoints
 
 ``` POST: /api/sensor-data ```
+
 ``` GET: /api/sensor-data ```
+
 ``` API: localhost:5000 ```
