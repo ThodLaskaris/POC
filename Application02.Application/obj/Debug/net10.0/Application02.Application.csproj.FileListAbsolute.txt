@@ -1,0 +1,17 @@
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Application.deps.json
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Application.dll
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Application.pdb
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Contracts.dll
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Domain.dll
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Domain.pdb
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/bin/Debug/net10.0/Application02.Contracts.pdb
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.csproj.AssemblyReference.cache
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.AssemblyInfoInputs.cache
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.AssemblyInfo.cs
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.csproj.CoreCompileInputs.cache
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Applicat.B12744F9.Up2Date
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.dll
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/refint/Application02.Application.dll
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/Application02.Application.pdb
+/Users/thodlaskaris/Documents/okeybye/Application02/Application02.Application/obj/Debug/net10.0/ref/Application02.Application.dll
